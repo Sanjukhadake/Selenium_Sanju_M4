@@ -45,7 +45,4 @@ public class Verify_User_Is_Able_to_Add_Address_or_Not_Test extends BaseTest {
 
 	}
 
-	
-
-	
 }
