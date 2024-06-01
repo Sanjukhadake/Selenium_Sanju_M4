@@ -103,7 +103,7 @@ public void beforemethod() throws IOException, InterruptedException
 	
 	System.out.println("beforemethod");	
 	
-	WebDriverWait wait = new WebDriverWait(driver,Duration.ofSeconds(90));
+	WebDriverWait wait = new WebDriverWait(driver,Duration.ofSeconds(70));
 	wait.until(ExpectedConditions.elementToBeClickable(By.id("loginBtn")));
 //	driver.manage().timeouts().implicitlyWait(15,TimeUnit.SECONDS);
 
