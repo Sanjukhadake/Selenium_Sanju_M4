@@ -11,7 +11,7 @@ import com.ShoppersStack_Sanju.Pom.MyAddress_Page;
 import com.ShoppersStack_Sanju.Pom.MyProfile_Page;
 
 
-public class Verify_User_Is_Able_to_Add_Address_or_Not extends BaseTest {
+public class Verify_User_Is_Able_to_Add_Address_or_Not_Test extends BaseTest {
 
 @Test
 
